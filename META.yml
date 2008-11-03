@@ -1,6 +1,6 @@
 ---
 name: excel2txt
-version: 0.02
+version: 0.03
 author:
   - 'Ken Youens-Clark <kclark@cpan.org>'
 abstract: convert Excel data to delimited text files
